@@ -1,1 +1,25 @@
+#calculator{
 
+width: 50vw;
+height: 180vh;
+display:flex;
+flex-flow: row wrap;
+background-color: purple;
+border: 10px solid rgb(46, 66, 58);
+display: flex
+
+flex-flow: row;
+}
+
+.box {
+  background-color:whitesmoke;
+  width:10px;
+  height:10px;
+  border:
+}
+.blue {
+  background: blueviolet;
+}
+.yellow{
+  background: yellow;
+}
